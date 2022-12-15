@@ -1,1 +1,1 @@
-# PCA-ASSIGNMENT-8
+Perform Principal Component Analysis and perform clustering using first 3 principal component scores (both hierarchial and k mean clustering (scree plot or elbow curve) and obtain the optimum number of clusters. Check whether we have obtained the same number of clusters as the original data (we ignored the class column at the beginning which shows it has 3 clusters).
